@@ -4,9 +4,9 @@ The data for the following project cannot be disclosed due to NDAs.
 
 This is a capstone project I have completed with my teammates:
 
-Kevin Raja
-Yvonne Lu
-Yuyang Wang
+Kevin Raja,
+Yvonne Lu,
+Yuyang Wang,
 Meng Xu
 
 Product recommendation engines have the potential to alter the way websites connect with retailers and end users, provide customers with a refined user experience, and maximize their return on the investment driven by the information they can gain on customers’ personal preferences and purchases. By using advanced algorithms such as machine learning and artificial intelligence to full advantage, a recommendation system can assist with showing customers the relevant products they want or need. 
